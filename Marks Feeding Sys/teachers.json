@@ -1,0 +1,10 @@
+{
+  "Amit Sharma": {
+    "password": "123",
+    "subject": ["Accounts", "BST"]
+  },
+  "Vinita Khandelwal": {
+    "password": "456",
+    "subject": ["Economics", "English"]
+  }
+}
